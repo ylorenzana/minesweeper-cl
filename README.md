@@ -1,2 +1,2 @@
 # CL Minesweeper
-Classic Minesweeper (command line) implemented in Python.
+Classic Minesweeper game (command line) implemented in Python.
